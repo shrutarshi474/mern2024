@@ -1,0 +1,25 @@
+.box {
+  border-width: 5px;
+  border-color: brown;
+  border-style: solid;
+  height: 100px;
+  width: 400px;
+  margin-left: 30%;
+  background-color: black;
+  color: white;
+}
+.box h1 {
+  text-align: center;
+}
+.visible {
+  display: none;
+}
+
+button {
+  background-color: burlywood;
+  height: 50px;
+  margin-top: 20px;
+  margin-right: 20px;
+  font-weight: bold;
+  font-style: italic;
+}
